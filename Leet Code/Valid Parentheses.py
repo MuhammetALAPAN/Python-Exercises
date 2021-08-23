@@ -1,21 +1,21 @@
 """
 
+Author: Muhammet ALAPAN
+
+Explanation:
+    My general approach for solution is: Removing inner parentheses for each type with recursive function and checking for
+if list is 'None' or not.
+
+"""
+
+"""
+
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:
 
 Open brackets must be closed by the same type of brackets.
 Open brackets must be closed in the correct order.
-
-"""
-
-"""
-
-Author: Muhammet ALAPAN
-
-Explanation:
-    My general approach for solution is: Removing inner parentheses for each type with recursive function and checking for
-if list is 'None' or not.
 
 """
 
